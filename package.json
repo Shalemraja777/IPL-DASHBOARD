@@ -1,11 +1,10 @@
 {
-  "name": "ipl",
-  "private": true,
-  "version": "1.0.0",
-  "engines": {
-    "node": "^10.13 || 12 || 14 || 15",
-    "npm": ">=6"
+    "name": "shalemraja",
+    "version": "0.1.0",
+    "homepage": "https://Shalemraja777.github.io/IPL-DASHBOARD",
+    "private": true,
   },
+
   "dependencies": {
     "@testing-library/jest-dom": "5.11.9",
     "@testing-library/react": "11.2.5",
