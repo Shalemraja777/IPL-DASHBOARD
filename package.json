@@ -1,5 +1,6 @@
 {
-  "name": "IPL_DASHBOARD",
+  "name": "ipl",
+  "homepage": " https://shalemraja777.github.io/IPL-DASHBOARD", 
   "private": true,
   "version": "1.0.0",
   "engines": {
